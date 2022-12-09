@@ -2,7 +2,7 @@
 Control Google Snake with your mouse.
 Here is how to do it:
 
-First, Copy the code in the file named GS Code
+First, Copy the code in the file named JS Code
 
 2: Right click on your bookmarks bar.
 
